@@ -1,0 +1,116 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        🖥️  HOST YOUR WEBSITE ON YOUR COMPUTER 🖥️              ║
+║                                                                ║
+║                    ITSOLUTIONRVL Website                       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────┐
+│  🚀 QUICK START (3 STEPS)                                      │
+└────────────────────────────────────────────────────────────────┘
+
+  STEP 1: Double-click one of these files:
+  
+    ✅ START_LOCAL_SERVER.bat
+       (Basic - just starts the server)
+    
+    ✅ START_SERVER_WITH_IP.bat  ⭐ RECOMMENDED
+       (Shows your IP address automatically)
+
+
+  STEP 2: Open your browser and go to:
+  
+    http://localhost:8000
+
+
+  STEP 3: Share with others on your network:
+  
+    http://YOUR_IP_ADDRESS:8000
+    (The IP will be shown in the server window)
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  📱 ACCESS FROM DIFFERENT DEVICES                              │
+└────────────────────────────────────────────────────────────────┘
+
+  Your Computer:     http://localhost:8000
+  
+  Other Computers:   http://192.168.1.XXX:8000
+  
+  Phone/Tablet:      http://192.168.1.XXX:8000
+  
+  (Replace XXX with your actual IP address)
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  🌍 INTERNET ACCESS OPTIONS                                    │
+└────────────────────────────────────────────────────────────────┘
+
+  Option 1: Ngrok (Easiest)
+  ─────────────────────────
+  • Download from: https://ngrok.com/download
+  • Run: ngrok http 8000
+  • Share the URL it gives you
+  • Anyone can access your site!
+
+
+  Option 2: Netlify (Best for Business)
+  ──────────────────────────────────────
+  • Visit: https://www.netlify.com
+  • Drag and drop your website folder
+  • Get a professional URL
+  • Always online, no computer needed
+  • See: DEPLOY_TO_NETLIFY.md
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  🛑 HOW TO STOP THE SERVER                                     │
+└────────────────────────────────────────────────────────────────┘
+
+  • Press Ctrl + C in the server window
+  • Or simply close the window
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  🔧 TROUBLESHOOTING                                            │
+└────────────────────────────────────────────────────────────────┘
+
+  Problem: Can't access from other devices
+  Solution: 
+    1. Check Windows Firewall
+    2. Make sure all devices on same Wi-Fi
+    3. Verify correct IP address
+
+
+  Problem: Port already in use
+  Solution:
+    • Close other programs using port 8000
+    • Or change port to 8080 in the .bat file
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  📞 CONTACT INFORMATION                                        │
+└────────────────────────────────────────────────────────────────┘
+
+  Phone:    +44 7597 627153
+  Email:    contact@itsolutionrvl.com
+  Facebook: https://www.facebook.com/TechSolutionRvl
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  📚 MORE INFORMATION                                           │
+└────────────────────────────────────────────────────────────────┘
+
+  Detailed Guide:     HOST_ON_YOUR_COMPUTER.md
+  Local Hosting:      HOW_TO_HOST_LOCALLY.md
+  Cloud Deployment:   DEPLOY_TO_NETLIFY.md
+
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  ✅ YOU'RE ALL SET! Everything is ready to go!                ║
+║                                                                ║
+║  Just double-click START_SERVER_WITH_IP.bat to begin!         ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝

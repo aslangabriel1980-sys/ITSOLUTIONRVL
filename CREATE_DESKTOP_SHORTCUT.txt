@@ -1,0 +1,100 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║     📌 CREATE DESKTOP SHORTCUT FOR EASY ACCESS 📌             ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+
+Want to start your website with one click from your Desktop?
+Follow these simple steps:
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  METHOD 1: Create Shortcut (Easiest)                          │
+└────────────────────────────────────────────────────────────────┘
+
+  1. Find this file in File Explorer:
+     START_SERVER_WITH_IP.bat
+
+  2. RIGHT-CLICK on it
+
+  3. Select "Send to" → "Desktop (create shortcut)"
+
+  4. Done! Now you have a shortcut on your Desktop
+
+  5. Double-click the Desktop shortcut anytime to start hosting!
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  METHOD 2: Drag and Drop                                       │
+└────────────────────────────────────────────────────────────────┘
+
+  1. Open File Explorer to this folder
+
+  2. Hold the RIGHT mouse button
+
+  3. Drag START_SERVER_WITH_IP.bat to your Desktop
+
+  4. Release and select "Create shortcuts here"
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  BONUS: Customize Your Shortcut                                │
+└────────────────────────────────────────────────────────────────┘
+
+  Make it look professional:
+
+  1. RIGHT-CLICK on the Desktop shortcut
+
+  2. Select "Properties"
+
+  3. Click "Change Icon"
+
+  4. Choose an icon you like (or browse for custom icons)
+
+  5. In the "General" tab, rename it to:
+     "Start ITSOLUTIONRVL Website"
+
+  6. Click OK
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  AUTO-START ON COMPUTER BOOT (Optional)                        │
+└────────────────────────────────────────────────────────────────┘
+
+  Want your website to start automatically when you turn on
+  your computer?
+
+  1. Press Win + R
+
+  2. Type: shell:startup
+
+  3. Press Enter
+
+  4. Copy START_SERVER_WITH_IP.bat to this folder
+
+  5. Your website will now start automatically on boot!
+
+  Note: A command window will open each time you start Windows
+
+
+┌────────────────────────────────────────────────────────────────┐
+│  QUICK ACCESS TIPS                                             │
+└────────────────────────────────────────────────────────────────┘
+
+  • Pin to Taskbar:
+    Right-click shortcut → "Pin to taskbar"
+
+  • Pin to Start Menu:
+    Right-click shortcut → "Pin to Start"
+
+  • Keyboard Shortcut:
+    Right-click shortcut → Properties → Shortcut key
+    Set something like: Ctrl + Alt + W
+
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  ✅ Now you can start your website with one click!            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
